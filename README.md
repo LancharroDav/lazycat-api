@@ -1,24 +1,14 @@
-# README
+## LAZY CAT'S API PROJECT
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![lazycat-logo-2colors](https://user-images.githubusercontent.com/49806971/111025783-b35f0e00-83e6-11eb-9659-7acb11eba2d1.png)
 
-Things you may want to cover:
+This is a demo of the original project.
 
-* Ruby version
+Rack-cors is set up to accept only requests from 'localhost:3000/...' in development.
 
-* System dependencies
+For production you need to set it up in '../config/initializers/cors.rb'
 
-* Configuration
+Feel free to fork it, make your versions or whatever you want, JUST REMEMBER TO MENTION MY GITHUB PROFILE ;)
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Created and designed by [@LancharroDav](https://github.com/LancharroDav)
+### Built with [Ruby on Rails](https://rubyonrails.org/)
